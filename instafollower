@@ -6,7 +6,7 @@ clear
 echo ""
 figlet " INSTABOT " | lolcat
 echo -e $kiddes "#####################"
-echo "     # HANZELNUT # " | lolcat
+echo "     # BOBBERYBOB # " | lolcat
 echo "  # Hantu Team Cyber # " | lolcat
 echo -e $kiddes "#####################"
 echo -e $kiddies"===================================================" 
